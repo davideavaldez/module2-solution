@@ -69,7 +69,7 @@ p {
 	height: 25px;
 	margin: -42px -12px 0px 5px;
 	padding: 2px 30px 30px 35px;
-	border: 2px black solid;
+	border: 1px black solid;
 	float: right;
 }
 
@@ -80,7 +80,7 @@ p {
 	height: 25px;
 	margin: -42px -12px 0px 5px;
 	padding: 2px 30px 30px 35px;
-	border: 2px black solid;
+	border: 1px black solid;
 	float: right;
 }
 
@@ -90,7 +90,7 @@ p {
 	height: 25px;
 	margin: -42px -12px 0px 5px;
 	padding: 2px 30px 30px 35px;
-	border: 2px black solid;
+	border: 1px black solid;
 	float: right;
 }
 
@@ -104,7 +104,7 @@ p {
 	height: auto;
 	margin: 0px 10px 25px 10px;
 	padding: 40px 10px 10px 10px;
-	border: 2px black solid;
+	border: 1px black solid;
 }
 .item2 {
 	background-color: #8E8A89;
@@ -112,7 +112,7 @@ p {
 	height: auto;
 	margin: 0px 10px 25px 10px;
 	padding: 40px 10px 10px 10px;
-	border: 2px black solid;
+	border: 1px black solid;
 }
 
 .item3 {
@@ -121,7 +121,7 @@ p {
 	height: auto;
 	margin: 0px 10px 25px 10px;
 	padding: 40px 10px 10px 10px;
-	border: 2px black solid;
+	border: 1px black solid;
 }
 }
 
@@ -134,7 +134,7 @@ p {
 	float: left;
 	margin: 0px 10px 25px 1%;
 	padding: 40px 10px 10px 10px;
-	border: 2px black solid;
+	border: 1px black solid;
 }
 .item2 {
 	background-color: #8E8A89;
@@ -143,7 +143,7 @@ p {
 	float: left;
 	margin: 0px 10px 25px 10px;
 	padding: 40px 10px 10px 10px;
-	border: 2px black solid;
+	border: 1px black solid;
 }
 
 .item3 {
@@ -153,7 +153,7 @@ p {
 	clear: both;
 	margin: 0px 1% 25px 10px;
 	padding: 40px 10px 10px 10px;
-	border: 2px black solid;
+	border: 1px black solid;
 }
 }
 
@@ -173,7 +173,7 @@ p {
 	float: left;
 	margin: 0px 20px 25px 2%;
 	padding: 40px 10px 10px 10px;
-	border: 2px black solid;
+	border: 1px black solid;
 }
 .item2 {
 	background-color: #8E8A89;
@@ -182,7 +182,7 @@ p {
 	float: left;
 	margin: 0px -20px 25px 0px;
 	padding: 40px 10px 10px 10px;
-	border: 2px black solid;
+	border: 1px black solid;
 }
 
 .item3 {
@@ -192,6 +192,6 @@ p {
 	float: left;
 	margin: 0px 0px 25px 40px;
 	padding: 40px 10px 10px 10px;
-	border: 2px black solid;
+	border: 1px black solid;
 }
 }
