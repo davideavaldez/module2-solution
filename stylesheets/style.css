@@ -84,7 +84,7 @@ p {
 }
 
 .item-title3 {
-	background: #bababa;
+	background: #7C7C7C;
 	width: auto;
 	height: 25px;
 	margin: -41px -11px 0px 5px;
@@ -98,7 +98,7 @@ p {
 @media (max-width: 767px) {
 
 .item1 {
-	background-color: #bababa;
+	background-color: #7C7C7C;
 	width: 93%;
 	height: auto;
 	margin: 0px 10px 25px 10px;
@@ -106,7 +106,7 @@ p {
 	border: 1px black solid;
 }
 .item2 {
-	background-color: #bababa;
+	background-color: #7C7C7C;
 	width: 93%;
 	height: auto;
 	margin: 0px 10px 25px 10px;
@@ -127,7 +127,7 @@ p {
 @media (min-width: 767px) and (max-width: 991px) {
 
 .item1 {
-	background-color: #bababa;
+	background-color: #7C7C7C;
 	width: 46%;
 	height: auto;
 	float: left;
@@ -136,7 +136,7 @@ p {
 	border: 1px black solid;
 }
 .item2 {
-	background-color: #bababa;
+	background-color: #7C7C7C;
 	width: 46%;
 	height: auto;
 	float: left;
@@ -166,7 +166,7 @@ p {
 }
 
 .item1 {
-	background-color: #bababa;
+	background-color: #7C7C7C;
 	width: 30%;
 	height: auto;
 	float: left;
@@ -175,7 +175,7 @@ p {
 	border: 1px black solid;
 }
 .item2 {
-	background-color: #bababa;
+	background-color: #7C7C7C;
 	width: 30%;
 	height: auto;
 	float: left;
