@@ -64,6 +64,7 @@ p {
 /* Objects */
 
 .item-title1 {
+	color: #7C7C7C;
 	background: #ff9b02;
 	width: auto;
 	height: 25px;
@@ -74,6 +75,7 @@ p {
 }
 
 .item-title2 {
+	color: #7C7C7C;
 	background: #ff9b02;
 	width: auto;
 	height: 25px;
@@ -84,6 +86,7 @@ p {
 }
 
 .item-title3 {
+	color: #ff9b02;
 	background: #7C7C7C;
 	width: auto;
 	height: 25px;
