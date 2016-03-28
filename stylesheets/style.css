@@ -99,7 +99,7 @@ p {
 @media (max-width: 767px) {
 
 .item1 {
-	background-color: #8E8A89;
+	background-color: #2D8BC9;
 	width: 93%;
 	height: auto;
 	margin: 0px 10px 25px 10px;
@@ -107,7 +107,7 @@ p {
 	border: 1px black solid;
 }
 .item2 {
-	background-color: #8E8A89;
+	background-color: #2D8BC9;
 	width: 93%;
 	height: auto;
 	margin: 0px 10px 25px 10px;
@@ -116,7 +116,7 @@ p {
 }
 
 .item3 {
-	background-color: #8E8A89;
+	background-color: #2D8BC9;
 	width: 93%;
 	height: auto;
 	margin: 0px 10px 25px 10px;
@@ -128,7 +128,7 @@ p {
 @media (min-width: 767px) and (max-width: 991px) {
 
 .item1 {
-	background-color: #8E8A89;
+	background-color: #2D8BC9;
 	width: 46%;
 	height: auto;
 	float: left;
@@ -137,7 +137,7 @@ p {
 	border: 1px black solid;
 }
 .item2 {
-	background-color: #8E8A89;
+	background-color: #2D8BC9;
 	width: 46%;
 	height: auto;
 	float: left;
@@ -147,7 +147,7 @@ p {
 }
 
 .item3 {
-	background-color: #8E8A89;
+	background-color: #2D8BC9;
 	width: 94%;
 	height: auto;
 	clear: both;
@@ -167,7 +167,7 @@ p {
 }
 
 .item1 {
-	background-color: #8E8A89;
+	background-color: #2D8BC9;
 	width: 30%;
 	height: auto;
 	float: left;
@@ -176,7 +176,7 @@ p {
 	border: 1px black solid;
 }
 .item2 {
-	background-color: #8E8A89;
+	background-color: #2D8BC9;
 	width: 30%;
 	height: auto;
 	float: left;
@@ -186,7 +186,7 @@ p {
 }
 
 .item3 {
-	background-color: #8E8A89;
+	background-color: #2D8BC9;
 	width: 30%;
 	height: auto;
 	float: left;
